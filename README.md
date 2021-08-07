@@ -15,10 +15,10 @@ This project focuses on detection of different species of birds,flowers and mamm
 
 
 ## Link to Dataset
-[News Dataset]()
+[News Dataset](https://drive.google.com/drive/folders/1qIs3p2bywk42P3JdfmMH5ZUKMczYqPL0?usp=sharing)
 
 ## Link to Video Demonstration
 [Video Demonstration](https://drive.google.com/file/d/1SDXfsPXu7cM2MJeYEQ8apyESQ-AV4_-c/view?usp=sharing)
 
 ## Link to Feedback Video
-[Video for Feedback]()
+[Video for Feedback](https://drive.google.com/drive/folders/1op4FhiKTua4PMpNMf7C7VwhPAONN79bW?usp=sharing)
